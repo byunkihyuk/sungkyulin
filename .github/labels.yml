@@ -1,0 +1,32 @@
+- name: "Status: Confirmed"
+  color: 008C0D
+- name: "Status: Review Needed"
+  color: EAE60E
+- name: "Status: Complete"
+  color: 7CD516
+- name: "Status: Feedback Needed"
+  color: 006A76
+- name: "Status: On Hold"
+  color: BABABA
+- name: "Status: In Progress"
+  color: FF815F
+- name: "Type: Question"
+  color: 006A76
+- name: "Type: Feature"
+  color: 67FB64
+- name: "Type: Idea"
+  color: 67E5FF
+- name: "Type: Bug"
+  color: FF1D0D
+- name: "Type: Enhancement"
+  color: 1273DE
+- name: "Type: Help Needed"
+  color: 522EEC
+- name: "Priority: Low"
+  color: C1E1C5
+- name: "Priority: Medium"
+  color: FDCB00
+- name: "Priority: High"
+  color: FF7900
+- name: "Priority: Critical"
+  color: FF1D0D
