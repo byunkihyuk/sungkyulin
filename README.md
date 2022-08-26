@@ -8,18 +8,22 @@
 
 ## Features
 
-- 특별한 프로젝트를 만들 팀원을 찾을 수 있는 팀 빌딩 기능 제공
-- 웹 서비스 형태로 제공되기 때문에 다양한 단말기에서 접속 가능
+- 성결대학교 이메일만 이용가능
+- 성결대학교 대내·외 활동에서 다양한 팀 활동 시 팀원 모집 기능 제공
+- 프로필에서 참여한 프로젝트 상태별 분류
+- 알림 타임라인 기능 제공
+- 작성한 댓글 관리 기능 제공
+- 디바이스 타입별 맞춤 화면 제공
 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table cellspacing="1px">
+<table>
     <tr>
         <td align="center">
-            <a href="https://github.com/jaehyuenjung"><img src="https://avatars.githubusercontent.com/u/86586206?s=100&u=aac9ce00d8292f1ce2f0abf93f3e79e9ec8ad6b8&v=4" width="100px;"/><br /><sub><b>jaehyuenjung</b></sub></a><br />
+            <a href="https://github.com/jaehyuenjung"><img src="https://avatars.githubusercontent.com/u/86586206?s=100&u=aac9ce00d8292f1ce2f0abf93f3e79e9ec8ad6b8&v=4" width="100px;"/><br /><sub><b>jaehyuenjung</b></sub></a>
         </td>
         <td align="center">
             <a href="https://github.com/choiminwoo98"><img src="https://avatars.githubusercontent.com/u/61531483?s=100&u=0d11985c3bc292ee0f83b8a35656be34c4a6c0b3&v=4" width="100px;"/><br /><sub><b>choiminwoo98</b></sub></a>
