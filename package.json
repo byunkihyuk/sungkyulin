@@ -7,8 +7,8 @@
         "build": "next build",
         "start": "next start",
         "lint": "next lint",
-        "test": "jest",
-        "test-cover": "jest --coverage"
+        "test": "jest --passWithNoTests",
+        "test-cover": "jest --coverage --passWithNoTests"
     },
     "dependencies": {
         "bcrypt": "^5.0.1",
