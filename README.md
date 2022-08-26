@@ -1,6 +1,6 @@
 # Serverless Web Application Team Building
 
-서버리스 웹 애플리케이션을 기반으로한 프로젝트 팀 구성 서비스.
+서버리스 웹 애플리케이션을 기반으로한 팀 프로젝트 & 사이드 프로젝트 팀 구성 서비스.
 
 ## Why **Sungkyul-In**?
 
@@ -9,7 +9,7 @@
 ## Features
 
 - 성결대학교 이메일만 이용가능
-- 과제, 공모전 등 다양한 팀 활동 시 팀원 모집 기능 제공
+- 성결대학교 대내·외 활동에서 다양한 팀 활동 시 팀원 모집 기능 제공
 - 프로필에서 참여한 프로젝트 상태별 분류
 - 알림 타임라인 기능 제공
 - 작성한 댓글 관리 기능 제공
@@ -31,7 +31,7 @@
         <td align="center">
             <a href="https://github.com/byunkihyuk"><img src="https://avatars.githubusercontent.com/u/78002166?s=100&u=5e480c59e71b9aa55bd111ebb619d6c302926d68&v=4" width="100px;"/><br /><sub><b>byunkihyuk</b></sub></a>
         </td>
-    <tr>
+    </tr>
 </table>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
