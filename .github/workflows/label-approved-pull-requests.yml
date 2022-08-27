@@ -11,11 +11,11 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - name: Label when approved
+            - name: Label approved pull requests
               uses: pullreminders/label-when-approved-action@master
 
               env:
                   APPROVALS: "2"
-                  GITHUB_TOKEN: ${{ secrets.TOKEN }}
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   ADD_LABEL: "Status: Confirmed"
                   REMOVE_LABEL: "Status: Review Needed"
